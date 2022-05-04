@@ -1,1 +1,3 @@
-# My-Training
+## My-Training
+
+# Learning basic git commands
